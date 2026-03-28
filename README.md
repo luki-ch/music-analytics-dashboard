@@ -28,7 +28,18 @@ The dataset contains the following columns:
 - **Artist** – performer  
 - **Genre** – music category  
 - **Length (min)** – duration of the song  
-- **Plays** – number of times the song was played  
+- **Plays** – number of times the song was played
+
+  ---
+
+## 🖥️ Dashboard Preview
+
+![Dashboard 1](1.png)
+![Dashboard 2](2.png)
+![Dashboard 3](3.png)
+![Dashboard 4](4.png)
+![Dashboard 5](5.png)
+
 
 Example rows:
 
